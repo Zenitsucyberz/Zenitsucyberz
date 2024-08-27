@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zenitsucyberz
+- 👋 Hi, I’m @Ebinbenny
 - 👀 I’m interested in Laravel Development
 - 🌱 I’m currently working at Cyberz Soft Solutions
 - 💞️ I’m looking to collaborate on Laravel Projects.
