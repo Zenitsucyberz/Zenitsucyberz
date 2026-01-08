@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ebinbenny
-- 👀 I’m interested in Laravel Development
-- 🌱 I’m currently working at Cyberz Soft Solutions
-- 💞️ I’m looking to collaborate on Laravel Projects.
-- 📫 You can reach me through @ebincyberz@gmail.com
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently studying at KCGI
+- 💞️ I’m looking to collaborate on Kotlin Projects.
+- 📫 You can reach me through @ebinbenny055@gmail.com
 
 <!---
 Zenitsucyberz/Zenitsucyberz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
